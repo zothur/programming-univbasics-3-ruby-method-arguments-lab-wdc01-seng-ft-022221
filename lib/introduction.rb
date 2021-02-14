@@ -3,7 +3,9 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!DEF
 def introduction_with_language(name="Dee"lanuage='Ruby')
-  
+ puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end
+introduction_with_language
 
 
 
